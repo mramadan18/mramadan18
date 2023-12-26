@@ -69,9 +69,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mramadan18/mramadan18/output/snake.svg" alt="Snake animation" />
-
-###
